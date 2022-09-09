@@ -1,0 +1,10 @@
+{
+  "themes": [
+    {
+      "name": "my-app-keycloack-finnaly",
+      "types": [
+        "login"
+      ]
+    }
+  ]
+}
